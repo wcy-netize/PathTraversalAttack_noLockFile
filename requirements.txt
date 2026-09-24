@@ -1,0 +1,14 @@
+# HTTP Client for API requests
+requests>=2.31.0
+
+# Data analysis and manipulation
+pandas>=2.0.0
+
+# General utility functions (dates, text, parsing, collections)
+python-utils>=3.8.0
+
+# Environment variables management (.env support)
+python-dotenv>=1.0.0
+
+# Data validation and settings management
+pydantic>=2.0.0
